@@ -1,7 +1,7 @@
 # Certified Ethical Hacking (CEHv13) Study Guide #
 **Master Ethical Hacking & Pass the CEHv13 Exam with Confidence!**
 
-Prepare for the** Certified Ethical Hacker (CEHv13) 312-50 exam** with this comprehensive study guide, meticulously crafted to help you develop both theoretical knowledge and practical hands-on skills in ethical hacking. Whether you’re an aspiring cybersecurity professional, a penetration tester, or an IT security specialist, this book provides step-by-step learning to ensure success.
+Prepare for the **Certified Ethical Hacker (CEHv13) 312-50 exam** with this comprehensive study guide, meticulously crafted to help you develop both theoretical knowledge and practical hands-on skills in ethical hacking. Whether you’re an aspiring cybersecurity professional, a penetration tester, or an IT security specialist, this book provides step-by-step learning to ensure success.
 
 This study guide is aligned with the latest CEHv13 exam blueprint (released on September 23, 2024) and covers the most current attack vectors, tools, and security countermeasures. With detailed explanations, real-world case studies, and practical exercises, you will gain a deep understanding of ethical hacking techniques and methodologies.
 
