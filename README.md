@@ -80,3 +80,7 @@ At IPSpecialist, we are dedicated to empowering cybersecurity professionals with
 
 
 **📘 Get your copy today and start your journey to CEHv13 certification success! 🚀**
+
+
+For additional in-depth resources, explore this CEHv13 GitHub repository, which provides detailed study materials, hands-on labs, and structured guidance for every module of the exam. Each topic is meticulously organized into separate sections, making it easy to navigate and access extended explanations, tools, and real-world examples. Whether you're looking for step-by-step tutorials, practical exercises, or extra reference materials, this repository serves as a valuable companion to reinforce your learning and master CEHv13 concepts effectively. 
+
