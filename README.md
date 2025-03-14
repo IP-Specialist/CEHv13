@@ -83,7 +83,7 @@ This guide covers all 20 chapters of CEHv13, ensuring you master every domain te
 At IPSpecialist, we are dedicated to empowering cybersecurity professionals with high-quality learning resources, including hands-on labs, practice tests, and study guides to help you stay ahead in the evolving field of ethical hacking.
 
 **Get on Amazon:** https://www.amazon.com/Certified-Ethical-Hacking-CEHv13-Exam-ebook/dp/B0F199KTJ9/ref=sr_1_18
-**Get on Website: **
+**Get on Website:**
 
 **📘 Get your copy today and start your journey to CEHv13 certification success! 🚀**
 
